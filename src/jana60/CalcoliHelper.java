@@ -1,8 +1,8 @@
 package jana60;
 
-public class CalcoliHelp {
+public class CalcoliHelper {
 	// constructor
-	private CalcoliHelp() {
+	private CalcoliHelper() {
 	}
 
 	public static int somma(int primo, int secondo) {
